@@ -1,1 +1,1 @@
-# TP-SmallTalk
+# TP1-SmallTalk-Algoritmos III
