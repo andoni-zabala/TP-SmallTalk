@@ -1,1 +1,2 @@
-# TP1-SmallTalk-Algoritmos III
+#SmallTalk - Algorithms and Programming University subject
+
