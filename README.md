@@ -1,2 +1,1 @@
-#SmallTalk - Algorithms and Programming University subject
-
+# Smalltalk - Algorithms and Programming University subject
